@@ -13,7 +13,7 @@ Hyun-Hwan Jeong and Yulin Dai
 You can read and run the entire code of the tutorial from the following links:
 
 1. scRNA-seq analysis using a public GEO dataset - https://colab.research.google.com/drive/1T7A9tf80w6cjjGy_ZqkGChLAGqZZBqqZ?usp=sharing
-2. deCS to guide cell type annotation task - 
+2. deCS to guide cell type annotation task - https://colab.research.google.com/drive/1mhJByBn7yjTLXOGaSepVOA48hfVQKH-o?usp=sharing
 3. EmptyNN for a cell-calling from droplet-based single-cell RNA-seq data - https://colab.research.google.com/drive/1s2xz6Qpq_ujnIswR0KCMxJAYNxUvaPlg?usp=sharing
 4. DrivAER to identify transcriptional program - https://colab.research.google.com/drive/1Hq9vT2ZGeOrGAf1YB2tEs4TZo6udjmH_?usp=sharing
 
